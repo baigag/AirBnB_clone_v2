@@ -1,5 +1,5 @@
 # AirBnB clone MySQL project
 
 ##Authors
-    - Aitebiremen Okojie
-    - Awoyemi Boluwatife
+    - BAIGA GODFREY BAIGA
+    - ODOI KENNETH
