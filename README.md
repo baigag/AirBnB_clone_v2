@@ -1,1 +1,5 @@
-0x02. AirBnB clone - MySQL
+# AirBnB clone MySQL project
+
+##Authors
+    - Aitebiremen Okojie
+    - Awoyemi Boluwatife
